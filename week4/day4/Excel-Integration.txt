@@ -1,0 +1,20 @@
+* Steps to read from excel
+         * 
+         * 1) Open the workbook using file name and path 
+         * 2) Go to the specific sheet (bysheet name or index) 
+         * 3) Go to the specific row (by index) 
+         * 4) Go to the specific column (by index) -- cell
+         * 5) Read the content
+
+
+
+
+Step to Integrate ReadExcle with DataProvider
+==============================================
+1.Declare a String[][] variable in ReadExcle program with dimensions a rowcount and Cellcount.
+2.Save data into the 2D array by having data[i-1][j]=cell.getStringCellValues
+3.add return statement and chnage void to return type.
+4.keyword static retain
+createlead 
+excleclass.methodname();
+return excleclass.methodname();         
