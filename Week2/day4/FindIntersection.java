@@ -7,10 +7,11 @@
 	 *
 	 * a) Declare An Array for {3,2,11,4,6,7};	 
 	 * b) Declare another Array for {1,2,8,4,9,7};
+	 add num one by one into list.
 	 * c) create a two empty Lists - list1 & list2
 	 * c) Declare for loop iterator from 0 to array a.length and add into list1
 	 * d) Declare for loop iterator from 0 to array b.length and add into another list2
-	 * e) Compare Both list1 & list2 using a nested for loop
+	 * e) Compare Both list1 & list2 using if condition
 	 *    1)Print the matching number
 	 *  
-	 */f interface and abstract class in Automation class
+	 *
