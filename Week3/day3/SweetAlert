@@ -1,0 +1,8 @@
+a)Launch the browser
+b)Load the url https://www.irctc.co.in/nget/train-search
+c)Enter MS in ‘From’ textbox
+d)Enter Cape in ‘To’ textbox
+e)Click search button 
+f)Click refresh button
+g)Click WL and Click BookNow button
+e)Click No button in the alert
